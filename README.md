@@ -6,7 +6,6 @@ A palindrome is a word, number, phrase, or other sequence of characters which re
 - [Project Prompt](#project-prompt)
 - [Technologies](#technologies)
 - [Setup](#setup)
-- [Sources](#sources)
 
 ## Project Prompt
 
